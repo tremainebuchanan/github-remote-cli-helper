@@ -2,7 +2,7 @@
 
 ## Project Description
 
-**Github Remote Helper (grh for short)**  is a command line interface (cli) tool allowing users to generate the `git remote add origin` string for a project in the scenario where users like myself maintain multiple github accounts on one workstation. 
+**Github Remote Helper (grh for short)**  is a command line interface (cli) tool allowing users to generate the required `git remote add origin` string for a project in the scenario where users like myself maintain multiple github accounts on one workstation. 
 
 ## Problem 
 
